@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class OrderTest {
-    static final Item MAGAZINE = new Item("雑誌", 500);
+    static final Item MAGAZINE = new Item("雑誌", 50000);
     
     Order set ;
     
